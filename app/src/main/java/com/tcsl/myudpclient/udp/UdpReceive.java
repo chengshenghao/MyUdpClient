@@ -10,8 +10,8 @@ import java.net.InetSocketAddress;
 
 /**
  * 描述:接收udp广播的线程，接收到广播以后，发送一个端口号的广播
- * <p/>作者：wjx
- * <p/>创建时间: 2017/10/10 16:33
+ * <p/>作者：csh
+ * <p/>创建时间: 2019/5/8 11:10
  */
 public class UdpReceive extends Thread {
     private static final String TAG = "UdpReceive";

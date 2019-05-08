@@ -12,7 +12,9 @@ import com.tcsl.myudpclient.udp.UdpReceiveBean;
 import com.tcsl.myudpclient.udp.UdpSend;
 
 /**
- * 进行广播获取服务器ip地址
+ * 描述：进行广播获取服务器ip地址
+ * <p/>作者：csh
+ * <p/>创建时间: 2019/5/8 11:10
  */
 public class MainActivity extends AppCompatActivity {
 

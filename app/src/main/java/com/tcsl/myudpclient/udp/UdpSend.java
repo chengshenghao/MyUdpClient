@@ -10,8 +10,8 @@ import java.net.InetAddress;
 
 /**
  * 描述:发送udp广播，广播socket对应的端口号
- * <p/>作者：wjx
- * <p/>创建时间: 2017/10/10 16:33
+ * <p/>作者：csh
+ * <p/>创建时间: 2019/5/8 11:10
  */
 public class UdpSend extends Thread {
     private static final String TAG = "UdpSend";

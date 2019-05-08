@@ -5,8 +5,8 @@ import android.os.Parcelable;
 
 /**
  * 描述：广播接收到的地址和端口号广播
- * <p/>作者：wu
- * <br/>创建时间：2018/9/3 17:34
+ * <p/>作者：csh
+ * <p/>创建时间: 2019/5/8 11:10
  */
 public class UdpReceiveBean implements Parcelable {
     private String ip;
